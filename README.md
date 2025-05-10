@@ -1,4 +1,4 @@
-# Android device tree for EEBBK S1W (H100)
+# Android device tree for EEBBK S1W (H100) Chinese:步步高家教机S1W(H100)的twrp设备树
 
 ```
 #
